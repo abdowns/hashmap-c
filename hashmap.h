@@ -1,8 +1,6 @@
 #ifndef HASHMAP_H
 #define HASHMAP_H
 
-#include "common.c"
-
 #define INIT_CAPACITY 16
 
 typedef struct pair
